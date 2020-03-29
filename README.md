@@ -1,5 +1,5 @@
 # multi_factorial
-Example to show how to sped up code with nultiprocessing
+Example to show how to sped up code with multiprocessing
 
 It takes less time, the more cores you use, and the more factorial you calculate
 
